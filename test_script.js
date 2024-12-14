@@ -1,1 +1,1 @@
-console.log("OK");
+document.title = "hjhjhj";
